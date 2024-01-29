@@ -68,4 +68,3 @@ class Unit(object):
         self.recurring_payments = RecurringPaymentResource(c)
         self.check_payments = CheckPaymentResource(c)
         self.tax_forms = TaxFormResource(c)
-

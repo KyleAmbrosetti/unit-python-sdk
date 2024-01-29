@@ -3,9 +3,9 @@ from distutils.core import setup
 setup(
     name='unit-python-sdk',
     packages=['unit', 'unit.api', 'unit.models', 'unit.utils'],
-    version="0.29.0",
+    version="0.30.0",
     license='Mozilla Public License 2.0',
-    description='This library provides a python wrapper to http://unit.co API. See https://docs.unit.co/',
+    description='This library provides a python wrapper to https://unit.co API. See https://docs.unit.co/',
     author='unit.co',
     author_email='dev@unit.co',
     url='https://github.com/unit-finance/unit-python-sdk',
